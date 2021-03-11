@@ -2,7 +2,7 @@
 
 This repository contains scripts and notebooks to reproduce the results presented in:
 
-> Traiko Dinev∗, Wolfgang Merkt∗, Vladimir Ivan, Ioannis Havoutis, Sethu Vijayakumar. **Sparsity-Inducing Optimal Control via Differential Dynamic Programming**. _Under Review_.
+> Traiko Dinev∗, Wolfgang Merkt∗, Vladimir Ivan, Ioannis Havoutis, Sethu Vijayakumar. **Sparsity-Inducing Optimal Control via Differential Dynamic Programming**. Proc. IEEE International Conference on Robotics and Automation (ICRA 2021), Xian, China, 2021.
 
 ## Installation
 
